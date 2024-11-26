@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6A96&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Thank+you+for+your+visit%F0%9F%90%A5;Welcome+to+Nahyeon's+GitHub.)](https://git.io/typing-svg)
 
 <p align="right">
-<a href="https://nahyun-kong.tistory.com/"><img src="https://img.shields.io/badge/T srory blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://nahyun-kong.tistory.com/"/></a>
+<a href="https://nahyun-kong.tistory.com/"><img src="https://img.shields.io/badge/T story blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://nahyun-kong.tistory.com/"/></a>
 <a href="https://www.notion.so/676504162eea427383d22844b66083eb" target="_blank"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <h2 align="center">
