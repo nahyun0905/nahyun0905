@@ -2,6 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun0905&count_bg=%23FFD8F5&title_bg=%23FFBBE0&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 # :paw_prints:Thank you for your visit.:paw_prints:
 
 ## :cherries: Introduction
@@ -49,7 +52,10 @@
 
 
 
-
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://knh9909@naver.com/)](https://knh9909@naver.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knh990905@gmail.com)](mailto:knh990905@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:knh9909@naver.com)](mailto:knh9909@naver.com)
 
 <a href="mailto:knh9909@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=knh9909@naver.com"/></a>
 
