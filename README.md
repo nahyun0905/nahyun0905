@@ -2,10 +2,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun0905&count_bg=%23FFD8F5&title_bg=%23FFBBE0&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# :star:Thank you for your visit.:star:
+# :paw_prints:Thank you for your visit.:paw_prints:
 
-## :cherries: Skill
+## :cherries: Introduction
 
+:sparkles: [blog](https://nahyun-kong.tistory.com/)
+:sparkles: [notion](https://www.notion.so/676504162eea427383d22844b66083eb)
+:sparkles: 
+
+## :star: Skill
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
@@ -35,7 +40,6 @@
 
   # :+1: 
 
-## :sparkles: 
 
 * :camel: 
 
@@ -53,6 +57,10 @@
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=nahyun0905&show_icons=true&theme=dracula" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=knh9909" width="42%" height="100%"/>
 </div>
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
