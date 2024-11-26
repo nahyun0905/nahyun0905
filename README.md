@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFC1CC&text=Welcome&text=Hi!%20Kong&fontAlign=50&fontColor=FFFFFF&height=190&animation=twinkling)
 
 <!--
 **nahyun0905/nahyun0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
