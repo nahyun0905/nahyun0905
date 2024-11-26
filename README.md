@@ -2,16 +2,17 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun0905&count_bg=%23FFD8F5&title_bg=%23FFBBE0&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<h2 align="center"> 
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6A96&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Thank+you+for+your+visit%F0%9F%90%A5;Welcome+to+Nahyeon's+GitHub.)](https://git.io/typing-svg)
 
-
-# :paw_prints:Thank you for your visit.:paw_prints:
+<p align="right">
+<a href="https://nahyun-kong.tistory.com/"><img src="https://img.shields.io/badge/T srory blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://nahyun-kong.tistory.com/"/></a>
+<a href="https://www.notion.so/676504162eea427383d22844b66083eb" target="_blank"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ## :cherries: Introduction
 
-:sparkles: [blog](https://nahyun-kong.tistory.com/)
-:sparkles: [notion](https://www.notion.so/676504162eea427383d22844b66083eb)
-:sparkles: 
+<h2 align="center">
 
 ## :star: Skill
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -29,27 +30,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-
-
-<details>	
-   <summary>profil</summary>
-   <br/>
- <ul>
-   <li>내용1</li>
-   <li>내용2</li>
- </ul>
-  </details>
-
-
-  # :+1: 
-
-
-* :camel: 
-
-1. :tada: 
-
-:rocket: :metal:
-
 
 
 # :mailbox_with_mail: Contacts
