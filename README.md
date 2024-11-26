@@ -10,10 +10,9 @@
 <a href="https://nahyun-kong.tistory.com/"><img src="https://img.shields.io/badge/T srory blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://nahyun-kong.tistory.com/"/></a>
 <a href="https://www.notion.so/676504162eea427383d22844b66083eb" target="_blank"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-
 <h2 align="center">
    
-   :tulip:Tech Stach:tulip:
+   :star:Skill/Tech Stach:star:
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
@@ -22,16 +21,18 @@
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 ![openCV](https://img.shields.io/badge/openCV-5C3EE8.svg?&style=for-the-badge&logo=openCV&logoColor=white)
 ![keras](https://img.shields.io/badge/keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
+
    
-   :tulip:Tools:tulip:
+   :wrench:Tools:wrench:
 
 ![jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
    
-   :tulip:Ect:tulip:
+   :four_leaf_clover:Ect:four_leaf_clover:
 
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![roboflow](https://img.shields.io/badge/roboflow-6706CE.svg?&style=for-the-badge&logo=roboflow&logoColor=white)
@@ -42,21 +43,18 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
 
+
 ## :cherries: Introduction
-
-
-## :star: Skill
-
-
+- [dkajshdkajshd]
+- [asldkjhaskjdh]
+- [asldkjaslkdjals]
 
 
 
-# :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://knh9909@naver.com/)](https://knh9909@naver.com/)
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knh990905@gmail.com)](mailto:knh990905@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:knh9909@naver.com)](mailto:knh9909@naver.com)
 
-<a href="mailto:knh9909@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=knh9909@naver.com"/></a>
 
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=nahyun0905&show_icons=true&theme=dracula" width = "49%" height="130%" />
@@ -66,8 +64,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-
 
 
 
