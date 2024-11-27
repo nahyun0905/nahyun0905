@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC1CC&text=Hi,%20Kong&fontColor=FFFFFF&height=200&animation=twinkling&fontAlignY=35&font=Baloo+Bhaina+2)
-
+   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun0905&count_bg=%23FFD8F5&title_bg=%23FFBBE0&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2 align="center"> 
@@ -11,6 +11,8 @@
 <a href="https://www.notion.so/676504162eea427383d22844b66083eb" target="_blank"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <h2 align="center">
+
+<br>
    
    :star:Skill/Tech Stach:star:
 
@@ -22,6 +24,8 @@
 ![openCV](https://img.shields.io/badge/openCV-5C3EE8.svg?&style=for-the-badge&logo=openCV&logoColor=white)
 ![keras](https://img.shields.io/badge/keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
 
+<br>
+
    
    :wrench:Tools:wrench:
 
@@ -30,6 +34,9 @@
 ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
 
    
    :four_leaf_clover:Ect:four_leaf_clover:
@@ -39,32 +46,31 @@
 ![framework](https://img.shields.io/badge/framework-000000.svg?&style=for-the-badge&logo=framework&logoColor=white)
 
 ![ubuntu](https://img.shields.io/badge/ubuntu-E954208.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ros](https://img.shields.io/badge/ros-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-
-## :cherries: Introduction
-- [dkajshdkajshd]
-- [asldkjhaskjdh]
-- [asldkjaslkdjals]
-
-
-
-## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knh990905@gmail.com)](mailto:knh990905@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:knh9909@naver.com)](mailto:knh9909@naver.com)
-
+<br><br>
 
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=nahyun0905&show_icons=true&theme=dracula" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=knh9909" width="42%" height="100%"/>
 </div>
 
+<br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+## :cherries: Introduction
+- :hatching_chick:
+- :heartpulse:
+- :paw_prints:
 
+
+## :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knh990905@gmail.com)](mailto:knh990905@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:knh9909@naver.com)](mailto:knh9909@naver.com)
+
+<br>
 
 
 
