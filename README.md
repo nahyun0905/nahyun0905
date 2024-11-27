@@ -39,7 +39,7 @@
 <br>
 
    
-   :four_leaf_clover:Ect:four_leaf_clover:
+   :four_leaf_clover:Etc:four_leaf_clover:
 
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![roboflow](https://img.shields.io/badge/roboflow-6706CE.svg?&style=for-the-badge&logo=roboflow&logoColor=white)
